@@ -1,0 +1,20 @@
+a {
+color: greenyellow;
+}
+
+a:hover {
+cursor:pointer;
+color: purple;
+}
+
+#pollos {
+background-color: orange;
+}
+
+label {
+    color:blue;
+}
+
+.segunda{
+    color:darkgreen;
+}
